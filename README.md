@@ -7,20 +7,6 @@ Dự án chứa 5 ví dụ ML.NET để học và thực hành:
 4. SentimentAnalysis - Phân tích cảm xúc.
 5. MovieRecommender - Đề xuất phim.
 
-## Cấu trúc thư mục
-MLNET-Samples/
-│
-├── ProductSalesAnomalyDetection/
-│
-├── TransferLearningTF/
-│
-├── ObjectDetection/
-|
-├── SentimentAnalysis/
-|
-├── MovieRecommender/
-└── README.md
-
 ## Yêu cầu
 - .NET SDK 6.0 / 7.0 / 8.0 / 9.0 (khuyến nghị .NET 7+)
 - Visual Studio 2022 hoặc VS Code
