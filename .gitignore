@@ -1,0 +1,44 @@
+## .gitignore for .NET / ML.NET projects
+
+# Build results
+[Bb]in/
+[Oo]bj/
+out/
+
+# Visual Studio / Rider / VSCode
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.idea/
+
+# NuGet
+*.nupkg
+packages/
+.nuget/
+
+# Logs and temporary
+*.log
+*.tmp
+*.temp
+
+# Generated model files (exclude model artifacts by default)
+*.zip
+*.pb
+*.onnx
+model/
+Models/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test results
+TestResults/
+
+# Rider
+.idea/
+
+# optional: lock files
+project.lock.json
