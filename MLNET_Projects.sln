@@ -40,6 +40,36 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "assets", "assets", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{FC820E53-2430-4E28-935A-43D8CA6D8B44}"
+	ProjectSection(SolutionItems) = preProject
+		..\Tài liệu\TransferLearning\assets\images\broccoli.jpg = ..\Tài liệu\TransferLearning\assets\images\broccoli.jpg
+		..\Tài liệu\TransferLearning\assets\images\broccoli2.jpg = ..\Tài liệu\TransferLearning\assets\images\broccoli2.jpg
+		..\Tài liệu\TransferLearning\assets\images\pizza.jpg = ..\Tài liệu\TransferLearning\assets\images\pizza.jpg
+		..\Tài liệu\TransferLearning\assets\images\pizza2.jpg = ..\Tài liệu\TransferLearning\assets\images\pizza2.jpg
+		..\Tài liệu\TransferLearning\assets\images\pizza3.jpg = ..\Tài liệu\TransferLearning\assets\images\pizza3.jpg
+		..\Tài liệu\TransferLearning\assets\images\tags.tsv = ..\Tài liệu\TransferLearning\assets\images\tags.tsv
+		..\Tài liệu\TransferLearning\assets\images\teddy2.jpg = ..\Tài liệu\TransferLearning\assets\images\teddy2.jpg
+		..\Tài liệu\TransferLearning\assets\images\teddy3.jpg = ..\Tài liệu\TransferLearning\assets\images\teddy3.jpg
+		..\Tài liệu\TransferLearning\assets\images\teddy4.jpg = ..\Tài liệu\TransferLearning\assets\images\teddy4.jpg
+		..\Tài liệu\TransferLearning\assets\images\teddy6.jpg = ..\Tài liệu\TransferLearning\assets\images\teddy6.jpg
+		..\Tài liệu\TransferLearning\assets\images\test-tags.tsv = ..\Tài liệu\TransferLearning\assets\images\test-tags.tsv
+		..\Tài liệu\TransferLearning\assets\images\toaster.jpg = ..\Tài liệu\TransferLearning\assets\images\toaster.jpg
+		..\Tài liệu\TransferLearning\assets\images\toaster2.png = ..\Tài liệu\TransferLearning\assets\images\toaster2.png
+		..\Tài liệu\TransferLearning\assets\images\toaster3.jpg = ..\Tài liệu\TransferLearning\assets\images\toaster3.jpg
+		..\Tài liệu\TransferLearning\assets\images\wikimedia.md = ..\Tài liệu\TransferLearning\assets\images\wikimedia.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "inception", "inception", "{EC0E3EA1-36D6-476E-B6AE-A6BA41F7CFAE}"
+	ProjectSection(SolutionItems) = preProject
+		..\Tài liệu\TransferLearning\assets\inception\imagenet.csv = ..\Tài liệu\TransferLearning\assets\inception\imagenet.csv
+		..\Tài liệu\TransferLearning\assets\inception\imagenet.tsv = ..\Tài liệu\TransferLearning\assets\inception\imagenet.tsv
+		..\Tài liệu\TransferLearning\assets\inception\imagenet_comp_graph_label_strings.txt = ..\Tài liệu\TransferLearning\assets\inception\imagenet_comp_graph_label_strings.txt
+		..\Tài liệu\TransferLearning\assets\inception\LICENSE = ..\Tài liệu\TransferLearning\assets\inception\LICENSE
+		..\Tài liệu\TransferLearning\assets\inception\tensorflow_inception_graph.pb = ..\Tài liệu\TransferLearning\assets\inception\tensorflow_inception_graph.pb
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -130,6 +160,9 @@ Global
 		{4C476081-92FE-E064-722B-831E1C3941E5} = {5D20AA90-6969-D8BD-9DCD-8634F4692FDA}
 		{47758A0A-82BD-EF98-AF60-31ED756A8A9C} = {4C476081-92FE-E064-722B-831E1C3941E5}
 		{4DA71E38-1AF3-4231-AD73-1FFC1862913A} = {47758A0A-82BD-EF98-AF60-31ED756A8A9C}
+		{02EA681E-C7D8-13C7-8484-4AC65E1B71E8} = {1FD43EFD-3180-A38C-F1D0-05A12F5CDFF8}
+		{FC820E53-2430-4E28-935A-43D8CA6D8B44} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{EC0E3EA1-36D6-476E-B6AE-A6BA41F7CFAE} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1DBBBA74-E47A-43A0-9F79-165F751897A5}
