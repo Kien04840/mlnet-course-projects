@@ -11,6 +11,13 @@
     <PackageReference Include="Microsoft.ML" Version="5.0.0" />
     <PackageReference Include="Microsoft.ML.ImageAnalytics" Version="5.0.0" />
     <PackageReference Include="Microsoft.ML.TensorFlow" Version="5.0.0" />
+    <PackageReference Include="SciSharp.TensorFlow.Redist" Version="2.16.0" />
+	  <!-- assets nằm cùng cấp với src (vì csproj ở samples/TransferLearningTF/src) -->
+	  <Content Include="..\assets\**\*.*">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		  <!-- hiển thị dưới node assets trong Solution Explorer -->
+		  <Link>assets\%(RecursiveDir)%(Filename)%(Extension)</Link>
+	  </Content>
   </ItemGroup>
 
 </Project>
