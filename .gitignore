@@ -43,5 +43,3 @@ TestResults/
 # optional: lock files
 project.lock.json
 .vs/
-*/.vs/
-samples/TransferLearningTF/assets/
