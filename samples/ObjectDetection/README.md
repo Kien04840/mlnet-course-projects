@@ -11,4 +11,4 @@ Ngắn gọn: Nhận diện vật thể trong ảnh sử dụng Tiny YOLOv2 (ONN
 Từ root repo:
 
 ### bash  
-dotnet run --project samples/ObjectDetection/src/ObjectDetection.csproj
+dotnet run --project samples/ObjectDetection/ObjectDetection.csproj

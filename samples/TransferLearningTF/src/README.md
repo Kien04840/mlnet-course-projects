@@ -11,4 +11,4 @@ Ngắn gọn: Phân loại hình ảnh bằng Transfer Learning sử dụng Tens
 Từ root repo:
 
 ### bash 
-dotnet run --project samples/TransferLearningTF/src/TransferLearningTF.csproj
+dotnet run --project samples/TransferLearningTF/TransferLearningTF.csproj
